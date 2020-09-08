@@ -35,7 +35,7 @@
 
 ## 프로젝트
 
-### 1차프로젝트 [🐶PETPPO](https://github.com/axxsxbxx/T4IR_petppo)
+### 1차프로젝트 [🐶PETPPO](https://github.com/axxsxbxx/T4IR_petppo) [포트폴리오](https://github.com/dongIhwa/TIL/blob/master/5%EC%A1%B0%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 - Python, Django, html을 활용해 웹 서비스 구현
 

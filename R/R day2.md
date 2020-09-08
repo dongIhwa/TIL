@@ -280,7 +280,7 @@
 
 ##### `subset`을 비롯한 함수에서 활용하기 너무 좋은 연산자들!
 
-![image-20200908214916292](C:\Users\동화\TIL\R\image-20200908214916292.png)
+![image-20200908214916292](https://github.com/dongIhwa/TIL/blob/master/R/image-20200908214916292.png?raw=true)
 
 ```
 > num1 <- 11 # c(11)
